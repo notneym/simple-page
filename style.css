@@ -1,0 +1,60 @@
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background: no-repeat center radial-gradient(rgb(7 241 7 / 8%), #03075e)
+
+
+
+}
+.page{
+    width: 800px;
+    margin: 20px auto;
+
+}
+.header{
+background-color: black;
+padding: 20px
+}
+.header-title{
+margin: 0;
+text-align: center;
+color: rgb(255, 255, 255);
+
+}
+.header-subtitle{
+    margin: 0;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 400;
+    color: rgb(8, 134, 245);
+
+}
+.nav-link{
+    color: black ;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    
+}
+.nav-link:hover{
+background-color: rgb(88, 64, 223);
+}
+
+
+.links{
+    text-align: center;
+}
+.img{
+    width: 800px;
+    height: 500px;
+}
+.info-title{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.iphone-16{
+    
+    height: 400px;
+    margin-right: 210px;
+    margin-left: 100px;
+}
